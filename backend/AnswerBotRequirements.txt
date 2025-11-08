@@ -1,0 +1,11 @@
+torch
+transformers
+sentence-transformers
+numpy
+scikit-learn
+scikit-learn
+faster-whisper
+moviepy==1.0.3
+ffmpeg-python
+qdrant-client
+groq

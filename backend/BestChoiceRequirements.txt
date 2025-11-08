@@ -1,0 +1,11 @@
+opencv-python
+moviepy
+pydub
+SpeechRecognition
+numpy
+torch
+transformers
+sentence-transformers
+openai-whisper
+flask
+flask-cors
