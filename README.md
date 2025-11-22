@@ -114,15 +114,32 @@ VideoHub-All-in-One-Personalized-Digital-Learning-Experience/
 
 # ⚙️ Installation & Setup
 
-## 1. Prerequisites
+Here is the updated README section with the **"Clone the Repository"** instruction added cleanly and professionally.
 
-* Python 3.x
-* Node.js + npm/yarn
-* **FFmpeg** installed on system (required for MoviePy)
+You can paste this directly into your README:
 
 ---
 
-## 2. Backend Setup
+# ⚙️ Installation & Setup
+
+## 1. Clone the Repository
+
+```bash
+git clone https://github.com/SEERINM/VideoHub-All-in-One-Personalized-Digital-Learning-Experience.git
+cd VideoHub-All-in-One-Personalized-Digital-Learning-Experience
+```
+
+---
+
+## 2. Prerequisites
+
+* Python 3.x
+* Node.js + npm/yarn
+* **FFmpeg** installed on your system (required for MoviePy)
+
+---
+
+## 3. Backend Setup
 
 ```bash
 cd backend
@@ -130,11 +147,11 @@ pip install -r Requirements.txt
 python app.py
 ```
 
-Runs on: **[http://0.0.0.0:5000](http://0.0.0.0:5000)**
+Backend runs on: **[http://0.0.0.0:5000](http://0.0.0.0:5000)**
 
 ---
 
-## 3. Frontend Setup
+## 4. Frontend Setup
 
 ```bash
 cd ../frontend
@@ -142,7 +159,7 @@ npm install
 npm start
 ```
 
-Runs on: **[http://localhost:3000](http://localhost:3000)**
+Frontend runs on: **[http://localhost:3000](http://localhost:3000)**
 
 ---
 
